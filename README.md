@@ -1,4 +1,4 @@
-# Public penetration testing reports
+# Penetration Test Public Reporting Center
 
 A repository containing public penetration test reports published by consulting firms and academic security groups.
 
